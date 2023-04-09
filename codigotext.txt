@@ -1,0 +1,12 @@
+20.8 + 5
+for ( int i = 0 , i <= 10 , i++ ) #Comentario
+#Esto es un comentario
+alu76 = 56
+12.98E-12
+'a'
+"Esto es un string"
+""
+''
+{
+]
+(
